@@ -9,6 +9,11 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushalrr006&theme=dark&background=000000)](https://git.io/streak-stats)
  
 </div>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaushalrr006&theme=juicyfresh&no-bg=true" />
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalrr006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
